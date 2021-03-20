@@ -1,3 +1,5 @@
+Code is cheap, show me the money.
+
 Rebooting to remove locked file.
 
 https://github.com/studentmain.keys
