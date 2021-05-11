@@ -1,3 +1,5 @@
+No transistor in a kernel panic ever feels responsible.
+
 Capitalism as a Service
 
 Code is cheap, show me the money.
